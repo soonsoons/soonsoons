@@ -1,16 +1,16 @@
-### Salut, moi c'est Quentin 👋
+### Salut, moi c'est Quentin
 
 Je suis un développeur front-end junior et autodidacte, passionné par la construction d'interfaces web et la création d'outils pédagogiques pour rendre le code accessible à tous.
 
 ---
 
-🔭 **Mon projet principal : BaliseTonSite.fr**
+**Mon projet principal : BaliseTonSite.fr**
 
 J'ai créé [BaliseTonSite.fr](https://www.balisetonsite.fr), une plateforme que je développe de A à Z pour apprendre les bases du développement web de manière simple et progressive. C'est à la fois mon outil d'apprentissage et la vitrine de mes compétences.
 
 ---
 
-🚀 **Technologies et Outils**
+**Technologies et Outils**
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,13 +23,13 @@ J'ai créé [BaliseTonSite.fr](https://www.balisetonsite.fr), une plateforme que
 
 ---
 
-🌱 **Ce que j'apprends en ce moment**
+**Ce que j'apprends en ce moment**
 
 Actuellement, je suis un plan structuré pour approfondir ma maîtrise de l'écosystème React, afin de pouvoir intégrer des fonctionnalités encore plus complexes et interactives à mes projets.
 
 ---
 
-📫 **Comment me contacter**
+**Comment me contacter**
 
 Vous pouvez me retrouver sur LinkedIn, où je suis le plus actif.
 
@@ -41,5 +41,5 @@ Vous pouvez me retrouver sur LinkedIn, où je suis le plus actif.
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soomsoons&show_icons=true&theme=dracula&count_private=true" alt="Statistiques GitHub de Soomsoons" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soonsoons&show_icons=true&theme=dracula&count_private=true" alt="Statistiques GitHub de Soomsoons" />
 </p>
