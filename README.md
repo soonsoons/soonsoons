@@ -41,5 +41,5 @@ Vous pouvez me retrouver sur LinkedIn, où je suis le plus actif.
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soonsoons&show_icons=true&theme=dracula&count_private=true" alt="Statistiques GitHub de Soomsoons" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soonsoons&show_icons=true&theme=dracula&count_private=true&cache_seconds=14400" alt="Statistiques GitHub de Quentin" />
 </p>
