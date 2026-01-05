@@ -1,4 +1,4 @@
-### 👋 Bonjour, moi c’est Quentin
+### Bonjour, moi c’est Quentin
 
 Architecte web indépendant, je conçois et expérimente des **systèmes web orientés performance, clarté et durabilité**.
 
@@ -6,7 +6,7 @@ Mon travail se situe à l’intersection de l’architecture web, du produit et 
 
 ---
 
-### 🧠 Projet principal — BaliseTonSite.fr
+### Projet principal — BaliseTonSite.fr
 
 **BaliseTonSite** est un projet indépendant qui me sert de **laboratoire d’architecture et de transmission**.
 
@@ -17,11 +17,11 @@ Il me permet de :
 
 Certaines solutions explorées ici sont aujourd’hui appliquées sur des projets en production.
 
-👉 https://www.balisetonsite.fr
+https://www.balisetonsite.fr
 
 ---
 
-### 🧩 Domaines de travail
+### Domaines de travail
 
 - Architecture web & découplage Front / Back  
 - Performance & sobriété technique  
@@ -32,7 +32,7 @@ Certaines solutions explorées ici sont aujourd’hui appliquées sur des projet
 
 ---
 
-### 🔍 À propos de ce GitHub
+### À propos de ce GitHub
 
 Ce GitHub regroupe :
 - des projets en cours
@@ -44,7 +44,7 @@ Il n’a pas vocation à exposer “tout ce que je sais”, mais **comment je ra
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 
 Vous pouvez me retrouver sur LinkedIn :
 
