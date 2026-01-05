@@ -1,45 +1,59 @@
-### Salut, moi c'est Quentin
+### 👋 Bonjour, moi c’est Quentin
 
-Je suis un développeur front-end junior et autodidacte, passionné par la construction d'interfaces web et la création d'outils pédagogiques pour rendre le code accessible à tous.
+Architecte web indépendant, je conçois et expérimente des **systèmes web orientés performance, clarté et durabilité**.
 
----
-
-**Mon projet principal : BaliseTonSite.fr**
-
-J'ai créé [BaliseTonSite.fr](https://www.balisetonsite.fr), une plateforme que je développe de A à Z pour apprendre les bases du développement web de manière simple et progressive. C'est à la fois mon outil d'apprentissage et la vitrine de mes compétences.
+Mon travail se situe à l’intersection de l’architecture web, du produit et de la pédagogie : comprendre les fondations, faire les bons choix structurels et construire des solutions qui tiennent dans le temps.
 
 ---
 
-**Technologies et Outils**
+### 🧠 Projet principal — BaliseTonSite.fr
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**BaliseTonSite** est un projet indépendant qui me sert de **laboratoire d’architecture et de transmission**.
 
----
+Il me permet de :
+- structurer et documenter des choix techniques
+- expérimenter des architectures sobres et maintenables
+- confronter des décisions techniques à des usages réels
 
-**Ce que j'apprends en ce moment**
+Certaines solutions explorées ici sont aujourd’hui appliquées sur des projets en production.
 
-Actuellement, je suis un plan structuré pour approfondir ma maîtrise de l'écosystème React, afin de pouvoir intégrer des fonctionnalités encore plus complexes et interactives à mes projets.
+👉 https://www.balisetonsite.fr
 
 ---
 
-**Comment me contacter**
+### 🧩 Domaines de travail
 
-Vous pouvez me retrouver sur LinkedIn, où je suis le plus actif.
+- Architecture web & découplage Front / Back  
+- Performance & sobriété technique  
+- Expérience utilisateur & accessibilité  
+- Produits pédagogiques et outils internes  
 
-<p align="left">
+*(Les technologies évoluent, la logique reste.)*
+
+---
+
+### 🔍 À propos de ce GitHub
+
+Ce GitHub regroupe :
+- des projets en cours
+- des expérimentations
+- des briques techniques isolées
+- et des supports de réflexion
+
+Il n’a pas vocation à exposer “tout ce que je sais”, mais **comment je raisonne et structure mes choix**.
+
+---
+
+### 📫 Me contacter
+
+Vous pouvez me retrouver sur LinkedIn :
+
 <a href="https://www.linkedin.com/in/quentin-l-6450b3155/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
 
 ---
+
 <p align="center">
-  <img src="https://github-readme-stats-kohl-delta.vercel.app/api?username=soonsoons&show_icons=true&theme=dracula&count_private=true" alt="Statistiques GitHub de Quentin" />
+  <img src="https://github-readme-stats-kohl-delta.vercel.app/api?username=soonsoons&show_icons=true&theme=dracula&count_private=true" alt="Statistiques GitHub" />
 </p>
