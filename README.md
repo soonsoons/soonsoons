@@ -6,7 +6,7 @@ Mon travail se situe à l’intersection de l’architecture web, du produit et 
 
 ---
 
-### Projet principal — BaliseTonSite.fr
+### Projet principal - BaliseTonSite.fr
 
 **BaliseTonSite** est un projet indépendant qui me sert de **laboratoire d’architecture et de transmission**.
 
