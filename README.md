@@ -1,46 +1,27 @@
-### Bonjour, moi c’est Quentin
+# Bonjour, je suis Quentin.
 
-Architecte web indépendant, je conçois et expérimente des **systèmes web orientés performance, clarté et durabilité**.
+Développeur Web Indépendant. Je conçois et développe des solutions web sur mesure avec une exigence stricte sur la performance et l'architecture. 
 
-Mon travail se situe à l’intersection de l’architecture web, du produit et de la pédagogie : comprendre les fondations, faire les bons choix structurels et construire des solutions qui tiennent dans le temps.
+Mon approche repose sur le "Vibe Coding" : une utilisation intensive de l'IA au quotidien pour décupler la production de code robuste et gérer la complexité full-stack, tout en conservant la maîtrise totale de la logique métier et de l'infrastructure. Je suis un technicien, pas un "Product Builder".
 
----
+### Stack & Expertises
 
-### Projet principal - BaliseTonSite.fr
+* **Architecture Headless :** Frontend en Next.js / React / TypeScript / Tailwind CSS couplé à un backend WordPress / PHP.
+* **Infra & Déploiement :** CI/CD, Cloudflare Pages.
+* **Performance & Visibilité :** Optimisation drastique des Core Web Vitals, SEO technique (Clean URLs, données structurées Schema).
 
-**BaliseTonSite** est un projet indépendant qui me sert de **laboratoire d’architecture et de transmission**.
+### Projet principal : BaliseTonSite.fr
 
-Il me permet de :
-- structurer et documenter des choix techniques
-- expérimenter des architectures sobres et maintenables
-- confronter des décisions techniques à des usages réels
+Créateur et développeur de [BaliseTonSite.fr](https://www.balisetonsite.fr), une plateforme pédagogique interactive (LMS) en achat unique à vie. 
 
-Certaines solutions explorées ici sont aujourd’hui appliquées sur des projets en production.
-
-https://www.balisetonsite.fr
-
----
-
-### Domaines de travail
-
-- Architecture web & découplage Front / Back  
-- Performance & sobriété technique  
-- Expérience utilisateur & accessibilité  
-- Produits pédagogiques et outils internes  
-
-*(Les technologies évoluent, la logique reste.)*
-
----
+Le projet est orienté vers la reconversion professionnelle ("Changer de vie"). Il enseigne le développement web moderne et l'intégration des outils d'IA dans le workflow de code. C'est également le cas d'application réel de mes architectures Headless et de mes standards de performance.
 
 ### À propos de ce GitHub
 
-Ce GitHub regroupe :
-- des projets en cours
-- des expérimentations
-- des briques techniques isolées
-- et des supports de réflexion
-
-Il n’a pas vocation à exposer “tout ce que je sais”, mais **comment je raisonne et structure mes choix**.
+Ce profil n'a pas vocation à exposer "tout ce que je sais", mais sert de répertoire pour :
+* Mes projets en cours et évolutions de stack.
+* Des expérimentations d'architecture et de découplage Front / Back.
+* Des briques techniques isolées axées sur la sobriété et la performance.
 
 ---
 
