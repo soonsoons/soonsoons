@@ -2,7 +2,7 @@
 
 Développeur Web Indépendant. Je conçois et développe des solutions web sur mesure avec une exigence stricte sur la performance et l'architecture. 
 
-Mon approche repose sur le "Vibe Coding" : une utilisation intensive de l'IA au quotidien pour décupler la production de code robuste et gérer la complexité full-stack, tout en conservant la maîtrise totale de la logique métier et de l'infrastructure. Je suis un technicien, pas un "Product Builder".
+Mon approche repose sur le "Vibe Coding" : une utilisation intensive de l'IA au quotidien pour décupler la production de code robuste et gérer la complexité full-stack, tout en conservant la maîtrise totale de la logique métier et de l'infrastructure.
 
 ### Stack & Expertises
 
